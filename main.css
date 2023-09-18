@@ -1,0 +1,43 @@
+.card{
+    width: 200px;
+    height: 310px;
+    text-align: center;
+    margin-top: 70px;
+    display: inline-block;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 7px;
+
+    
+}
+.title{
+    text-align: center;
+}
+.kub{
+    margin-bottom: 20px;
+    color: red;
+
+}
+ .basic{
+    margin-bottom: 15px;
+ }
+ .text{
+    margin-bottom: 30px;
+
+ }  
+ .li{
+    margin-bottom: 1px;
+    list-style: none;
+
+ }
+ .cup{
+   margin-bottom: 20px;
+   color:green
+   
+    
+ }
+ .price{
+   margin-bottom: 20px;
+   color: blue;
+ }
+ 
